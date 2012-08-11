@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items xmlns:d1p2="http://www.w3.org/2001/XMLSchema" xmlns:d1p1="http://www.w3.org/2001/XMLSchema-instance">
+  <VersionTag>201102222044</VersionTag>
+  <Maps>
+    <Map zone="4 Holes" name="Map - 4 Holes" mapnav="2" MapsA="1" />
+    <Map zone="Aegean" name="Map - Aegean" mapnav="56" MapsB="2147483648" />
+    <Map zone="Wartorn Valley" name="Map - Aegean" mapnav="56" MapsB="2147483648" />
+    <Map zone="Athen Shire" name="Map - Full Athen Shire" mapnav="71" MapsB="1073741824" />
+    <Map zone="Wailing Wastes" name="Map - Full Athen Shire" mapnav="71" MapsB="1073741824" />
+    <Map zone="Athen West" name="Map - Athen West" mapnav="66" MapsA="8" />
+    <Map zone="Broken Shores" name="Map - Broken Shores" mapnav="270" MapsA="64" />
+    <Map zone="Central Artery Valley" name="Map - Central Artery Valley" mapnav="390" MapsA="128" />
+    <Map zone="Deep Artery Valley" name="Map - Deep Artery Valley" mapnav="700" MapsA="256" />
+    <Map zone="Eastern Fouls Plains" name="Map - Eastern Fouls Plains" mapnav="546" MapsA="512" />
+    <Map zone="Lush Fields" name="Map - Lush Fields" mapnav="45" MapsA="2048" />
+    <Map zone="Mort" name="Map - Mort" mapnav="300" MapsA="8192" />
+    <Map zone="Newland Desert" name="Map - Newland Desert" mapnav="45" MapsA="16384" />
+    <Map zone="Perpetual Wastelands" name="Map - Perpetual Wastelands" mapnav="700" MapsA="131072" />
+    <Map zone="Omni-1 Entertainment District" name="Map - Omni-1 Entertainment District" mapnav="15" MapsA="65536" />
+    <Map zone="Southern Fouls Hills" name="Map - Southern Fouls Hills" mapnav="200" MapsA="1048576" />
+    <Map zone="Stret East Bank" name="Map - Stret East Bank" mapnav="190" MapsA="2097152" />
+    <Map zone="Tir City" name="Map - Tir City" mapnav="15" MapsA="8388608" />
+    <Map zone="Tir County" name="Map - Tir County" mapnav="35" MapsB="16777216" />
+    <Map zone="Greater Tir County" name="Map - Tir County" mapnav="35" MapsB="16777216" />
+    <Map zone="Varmint Woods" name="Map - Varmint Woods" mapnav="110" MapsA="67108864" />
+    <Map zone="Bay of Rome" name="Map - Bay of Rome" mapnav="120" MapsA="536870912" />
+    <Map zone="Avalon" name="Map - Avalon" mapnav="350" MapsA="16" />
+    <Map zone="Belial Forest" name="Map - Belial Forest" mapnav="400" MapsA="32" />
+    <Map zone="Galway County" name="Map - Galway County" mapnav="56" MapsB="67108864" />
+    <Map zone="Galway Shire" name="Map - Galway County" mapnav="56" MapsB="67108864" />
+    <Map zone="Milky Way" name="Map - Milky Way" mapnav="235" MapsA="4096" />
+    <Map zone="Newland City" name="Map - Newland City" mapnav="45" MapsB="4096" />
+    <Map zone="Omni Forest" name="Map - Omni Forest" mapnav="35" MapsB="33554432" />
+    <Map zone="Greater Omni Forest" name="Map - Omni Forest" mapnav="35" MapsB="33554432" />
+    <Map zone="Pleasant Meadows" name="Map - Pleasant Meadows" mapnav="75" MapsA="262144" />
+    <Map zone="Southern Artery Valley" name="Map - Southern Artery Valley" mapnav="270" MapsA="524288" />
+    <Map zone="The Longest Road" name="Map - The Longest Road" mapnav="140" MapsA="4194304" />
+    <Map zone="Upper Stret East Bank" name="Map - Upper Stret East Bank" mapnav="240" MapsA="33554432" />
+    <Map zone="Andromeda" name="Map - Andromeda" mapnav="80" MapsA="134217728" />
+    <Map zone="Old Athen" name="Map - Old Athens" mapnav="45" MapsA="268435456" />
+    <Map zone="Clondyke" name="Map - Clondyke" mapnav="80" MapsA="1073741824" />
+    <Map zone="Mutant Domain" name="Map - Mutan Domain" mapnav="100" MapsB="268435456" />
+    <Map zone="Omni-1 HQ" name="Map - Omni-1 - HQ" mapnav="200" MapsB="1" />
+    <Map zone="Plains of Salt" name="Map - Plains of Salt" mapnav="346" MapsB="4" />
+    <Map zone="Rome Green District" name="Map - Rome Green District" mapnav="40" MapsB="16" />
+    <Map zone="Stret West Bank" name="Map - Stret West Bank" mapnav="65" MapsB="64" />
+    <Map zone="The Spur" name="Map - The Spur" mapnav="100" MapsB="256" />
+    <Map zone="Broken Crest" name="Map - Broken Crest" mapnav="191" MapsB="1024" />
+    <Map zone="Omni-1 Trade" name="Map - Omni-1 - Trader District" mapnav="25" MapsB="2" />
+    <Map zone="Rome Blue District" name="Map - Rome Blue District" mapnav="50" MapsB="8" />
+    <Map zone="Rome Red District" name="Map - Rome Red District" mapnav="56" MapsB="32" />
+    <Map zone="The Reck" name="Map - The Reck" mapnav="50" MapsB="128" />
+    <Map zone="Three Craters" name="Map - Three Craters" mapnav="200" MapsB="512" />
+    <Map zone="Borealis City" name="Map - Borealis City" mapnav="35" MapsB="2048" />
+    <Map zone="Holes In The Wall" name="Map - Holes in the Wall" mapnav="25" MapsB="134217728" />
+    <Map zone="Newland" name="Map - Newland" mapnav="98" MapsB="536870912" />
+    <Map zone="Coast of Peace" name="Map - Coast of Peace" mapnav="100" MapsD="65536" />
+    <Map zone="Coast of Tranquility" name="Map - Coast of Tranquility" mapnav="100" MapsD="131072" />
+  </Maps>
+  <MapUpgrades>
+    <MapUpgrade name="Map Reader Upgrade - Side" mapnav="450" listname="Side" bitflag="1" />
+    <MapUpgrade name="Map Reader Upgrade - Monsters" mapnav="130" listname="Monsters" bitflag="2" />
+    <MapUpgrade name="Map Reader Upgrade - People" mapnav="80" listname="Players" bitflag="4" />
+    <MapUpgrade name="Map Reader Upgrade - Machines" mapnav="50" listname="Machines" bitflag="8" />
+    <MapUpgrade name="Map Reader Upgrade -Directional Arrow" mapnav="25" listname="Arrow" bitflag="16" />
+  </MapUpgrades>
+</Items>
