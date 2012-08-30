@@ -217,20 +217,17 @@ namespace MapUpgrades
         {
             List<Xml.ItemList.Map> havemaps = new List<Xml.ItemList.Map>();
 
-            string[] t = text.Split(".".ToCharArray(), StringSplitOptions.RemoveEmptyEntries);
+            string[] ownedZones = text.Split(
+                ".".ToCharArray(), 
+                StringSplitOptions.RemoveEmptyEntries).Select(s=>s.Trim()).ToArray();
 
-            foreach (string t2 in t)
+            foreach (Xml.ItemList.Map m in Program.ItemList.Maps)
             {
-                string map = t2.Trim();
-                if (string.IsNullOrEmpty(map)) { continue; }
-
-                foreach (Xml.ItemList.Map m in Program.ItemList.Maps)
+                if (!ownedZones.Contains(m.zone, StringComparer.InvariantCultureIgnoreCase))
                 {
-                    if (m.zone == map)
-                    {
-                        havemaps.Add(m);
-                    }
+                    continue;
                 }
+                havemaps.Add(m);
             }
             return havemaps;
         }

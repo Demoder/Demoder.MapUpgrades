@@ -16,10 +16,10 @@
     <Map zone="Mort" name="Map - Mort" mapnav="300" MapsA="8192" />
     <Map zone="Newland Desert" name="Map - Newland Desert" mapnav="45" MapsA="16384" />
     <Map zone="Perpetual Wastelands" name="Map - Perpetual Wastelands" mapnav="700" MapsA="131072" />
-    <Map zone="Omni-1 Entertainment District" name="Map - Omni-1 Entertainment District" mapnav="15" MapsA="65536" />
+    <Map zone="Omni-1 Entertainment" name="Map - Omni-1 Entertainment District" mapnav="15" MapsA="65536" />
     <Map zone="Southern Fouls Hills" name="Map - Southern Fouls Hills" mapnav="200" MapsA="1048576" />
     <Map zone="Stret East Bank" name="Map - Stret East Bank" mapnav="190" MapsA="2097152" />
-    <Map zone="Tir City" name="Map - Tir City" mapnav="15" MapsA="8388608" />
+    <Map zone="Tir" name="Map - Tir City" mapnav="15" MapsA="8388608" />
     <Map zone="Tir County" name="Map - Tir County" mapnav="35" MapsB="16777216" />
     <Map zone="Greater Tir County" name="Map - Tir County" mapnav="35" MapsB="16777216" />
     <Map zone="Varmint Woods" name="Map - Varmint Woods" mapnav="110" MapsA="67108864" />
